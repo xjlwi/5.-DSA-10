@@ -3,6 +3,6 @@ venv/**
 
 # Extensions
 *.pptx
-*.docs
+*.docx
 *.zip
-*.ipynb
+*.pdf
