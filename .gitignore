@@ -1,0 +1,8 @@
+# Virtual env
+venv/**
+
+# Extensions
+*.pptx
+*.docs
+*.zip
+*.ipynb
