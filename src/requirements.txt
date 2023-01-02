@@ -1,0 +1,14 @@
+skompiler
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+plotly
+statsmodels
+joblib
+nbformat
+scikit-learn
+yellowbrick
+rise
+ipykernel
