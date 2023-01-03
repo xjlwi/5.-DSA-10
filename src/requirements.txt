@@ -1,14 +1,19 @@
-skompiler
-pandas
-numpy
-scipy
-seaborn
-matplotlib
-plotly
-statsmodels
-joblib
-nbformat
-scikit-learn
-yellowbrick
-rise
 ipykernel
+joblib
+matplotlib
+mlxtend
+nbformat
+numpy
+pandas
+plotly
+rise
+scipy
+scikit-learn
+seaborn
+skompiler
+squarify
+statsmodels
+yellowbrick
+
+# Link to DSA Datasets
+# https://petronas.sharepoint.com/:u:/r/teams/ts_GD_datasciencedepartmen/Shared%20Documents/Capability/DSA/Unsupervised%20Learning/data.zip?csf=1&web=1&e=P5uXHB
