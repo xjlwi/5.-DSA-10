@@ -6,3 +6,5 @@ venv/**
 *.docx
 *.zip
 *.pdf
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
