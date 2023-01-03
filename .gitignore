@@ -8,3 +8,6 @@ venv/**
 *.pdf
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# data folder.
+/data/
